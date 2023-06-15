@@ -14,7 +14,7 @@ dependencies:
   yaml: ^3.1.1
   rxdart: ^0.27.5
   get: ^4.6.5
-  realm: ^0.6.0+beta
+  realm: ^1.0.0
   hive: ^2.2.3
   path_provider: ^2.0.11
   uuid: ^3.0.6
