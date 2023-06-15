@@ -24,7 +24,7 @@ dependencies:
   permission_handler: ^10.2.0
   geolocator: ^9.0.2
   intl: ^0.17.0
-  package_info_plus: ^3.0.0
+  package_info_plus: ^4.0.2
   country_codes: ^2.2.0
   retry: ^3.1.0
   shared_preferences: ^2.0.15
@@ -36,6 +36,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
