@@ -29,7 +29,7 @@ dependencies:
   retry: ^3.1.0
   shared_preferences: ^2.0.15
   pausable_timer: ^1.0.0+6
-  dio: ^4.0.6
+  dio: ^5.1.1
   disk_space: ^0.2.1
 
 dev_dependencies:
